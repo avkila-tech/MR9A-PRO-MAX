@@ -19,7 +19,7 @@
 * **Stable Overclocking:** Because Chinese boards often have very aggressive built-in power limits, I recommend disabling the power limit in the BIOS for a stable overclock, but then setting a manual power limit in Intel XTU.
 
 > [!CAUTION]
-> **CSM MUST BE OFF:** You must disable CSM (Compatibility Support Module) in the BIOS. The RebarDxe driver will cause a boot failure/hang if CSM is enabled. Ensure your OS is on a **GPT** partition.
+> **CSM MUST BE OFF:** You must disable CSM (Compatibility Support Module) in the BIOS. The RebarDxe driver will cause a boot failure/hang if CSM is enabled. Ensure your OS is on a **GPT** partition. If you absolutely need to boot on Legacy video, please reset your CMOS by removing the CR2032 battery from the motherboard. The ReBarDXE driver will not work if your date and time is set before 2024.
 
 ---
 
