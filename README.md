@@ -28,7 +28,7 @@
 * **SHA-256:** `4eab0567829ae5e51bdf4db79d6ce45d385d196b4a3abc1905d52518dcf0a31c`
 * **MD5:** `b838d141132744325b1de92837629799`
 
-**Avkila's Modded ROM (TBU) **
+**Avkila's Modded ROM (TBU)**
 * **SHA-256:** `7b1d9dfaa6a2192f4cc64a389f4e38d65e13372f7522acdd14acc64c5d168141`
 * **MD5:** `5d8f70a6a6fd96fd00f60e5d81bbfaa2`
 
