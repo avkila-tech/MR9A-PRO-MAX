@@ -11,7 +11,7 @@
 * **Power Limits:** Current limits removed (Manual configuration required in BIOS).
 * **Resizable BAR:** Injected RebarDxe driver.
 * **BCLK Fix:** Spread Spectrum killed via Intel FIT. Fixed 100MHz BCLK.
-* **Turbo Boost:** No Turbo Boost unlock injected.
+* **Turbo Boost:** No Turbo Boost unlock injected except for the one that explicitly says "TBU" on it.
 
 ### ⚡ Power & Overclocking Guidance
 * **Power Limit Safety:** Most E5 26xx v3/v4 and 16xx v4 CPUs have a hard cap at 140W and are completely fine with this BIOS.
@@ -27,6 +27,10 @@
 **Avkila's Modded ROM**
 * **SHA-256:** `4eab0567829ae5e51bdf4db79d6ce45d385d196b4a3abc1905d52518dcf0a31c`
 * **MD5:** `b838d141132744325b1de92837629799`
+
+**Avkila's Modded ROM (TBU) **
+* **SHA-256:** `7b1d9dfaa6a2192f4cc64a389f4e38d65e13372f7522acdd14acc64c5d168141`
+* **MD5:** `5d8f70a6a6fd96fd00f60e5d81bbfaa2`
 
 **Stock Image (For Reference)**
 * **SHA-256:** `8c447651059696993065e8ae25a5546c761af970372b9b3075a542da8e555972`
