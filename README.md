@@ -41,5 +41,6 @@
 ### 🤝 Credits
 * **Stock ROM:** [koshak1013](https://github.com/Koshak1013/HuananzhiX99_BIOS_mods)
 * **Modded by:** Avkila
+* **Tested by:** My friend Tribson
 
 **Disclaimer:** This firmware is provided as-is. I will not take any responsibility for bricking your motherboard, but I will happily help you recover it if you ask me nicely. Always have a CH341A programmer and a backup of your original ROM ready.
